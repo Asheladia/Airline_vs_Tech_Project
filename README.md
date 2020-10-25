@@ -1,6 +1,6 @@
 # Fintech_Project_1
 Fintech Project 1
-
+![Fintech_Project_1](.png)
 ## Project Airline vs Tech 
 ---
 TEAM MEAMBERS: Alpa Sheladia, Jayshrey Dudhia, Will Turner, Brandon Srinath
