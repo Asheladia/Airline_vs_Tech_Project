@@ -16,7 +16,8 @@ In this project, our team collectively decided to compare two specific industrie
 ---
 1. Data Cleaning/Formatting
 2. Merging/comparison/plotting
-![Fintech_Project_1] (Image/airline_stock_prices_plot.png)
+![Fintech_Project_1](Image/airline_stock_prices_plot.png)
+
 3. Understanding the data/Visualizations
 4. Suggestions
 ---
