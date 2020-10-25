@@ -15,6 +15,10 @@ In this project, our team collectively decided to compare two specific industrie
 4. What can each industry do next to sustain their business?
 ---
 1. Data Cleaning/Formatting
+
+![Fintech_Project_1](Image/airline_stock_price_pct_change_plot.png)
+
+
 2. Merging/comparison/plotting
 ![Fintech_Project_1](Image/airline_stock_prices_plot.png)
 
