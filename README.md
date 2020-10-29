@@ -24,7 +24,7 @@ In this project, our team collectively decided to compare two specific industrie
  1)	What do your result suggest about the current portfolio performance?
  2)	What would you recommend customizing to improve the portfolio? 
  
- ![Fintech_Project_1](Image/bull vs bear.png)
+ ![Fintech_Project_1](Image/bull_vs_bear.png)
 
 
 ## Research Questions to ask
