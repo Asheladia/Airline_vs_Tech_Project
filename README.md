@@ -13,10 +13,18 @@ In this project, our team collectively decided to compare two specific industrie
 •	Use large database with more info than needed 
 •	Portfolio analyzers: 
 •	prepare a tearsheet for a portfolio that includes calculations, tables, charts, financial models, Monte Carlo simulations and statistical analysis of portfolio performance.
+
+![Fintech_Project_1](Image/chart)
+
 •	Create and host a dashboard for the tearsheet with interactive visualizations and a storyboard interface 
+
+![Fintech_Project_1](Image/Monte carlo graph)
+
 •	Answer these questions: 
  1)	What do your result suggest about the current portfolio performance?
  2)	What would you recommend customizing to improve the portfolio? 
+ 
+ ![Fintech_Project_1](Image/bull vs bear)
 
 
 ## Research Questions to ask
