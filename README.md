@@ -18,7 +18,7 @@ In this project, our team collectively decided to compare two specific industrie
 
 •	Create and host a dashboard for the tearsheet with interactive visualizations and a storyboard interface 
 
-![Fintech_Project_1](Image/Monte carlo graph)
+![Fintech_Project_1](Image/Monte carlo graph.jpeg)
 
 •	Answer these questions: 
  1)	What do your result suggest about the current portfolio performance?
