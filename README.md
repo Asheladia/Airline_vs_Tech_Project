@@ -2,13 +2,13 @@
 
 ![Fintech_Project_1](Image/mainframe.png)
 
-			#### Project Airline vs Tech 
+			# --**Project Airline vs Tech**-- 
 			
 --- 
 ![Fintech_Project_1](Image/Fintech_hero.png)
 
 ---
-Contributors: Alpa Sheladia, Jayshrey Dudhia, Will Turner, Brandon Srinath
+***Contributors: Alpa Sheladia, Jayshrey Dudhia, Will Turner, Brandon Srinath***
 ---
 In this project, our team collectively decided to compare two specific industries that have been negatively and postively affected by the Covid-19 pandemic. Due to the travel restrictions placed on people around the glode because of the pandemic, the airline industry has struggled to persevere in the market. On the other hand, the tech industry after taking a hit from the March lows has recovered completely and has even reached new record highs when compared with stock prices. We will  be cleaning financial data of both the industries including the operating balance sheets of different companies and then also compare the two industries with stock prices and market caps. 
 
@@ -16,21 +16,21 @@ Initially setting up the scope and the depth of the project was handled by the t
 
 ![Fintech_Project_1](Image/bull_vs_bear.png)
 --- 
-## Loading Data 
-----
+## **Loading Data** 
+--
 ![Fintech_Project_1](Image/2020.png)
------
+---
 With the use of www.alphavantage.co we were able to load json and corresponding close prices for 3 portfolios (Airline, Technology, and stock market) and two distinctive time periods (Pre-Covid & Post-Covid). We normalized all tables/data within our Jupyter notebook to ensure optimal flexibility and workability. 
 We imported quarterly data of 2019-2020 top 5 airline companies such as American Airline "AAL", United Airlines "UAL",Southwest Airline "LUV", Delta Airline "DAL", Alaska Airline "AL"  
-------
+---
 ![Fintech_Project_1](Image/Airline_tech.png)
-------
+---
  
 Likewise for Tech companies we are gathering quterly data of Apple "AAPL",Alphabet "GOOGL", Amazon "AMZN", Microsoft "MSFT", and Facebook "FB" from www.alphavantage.co.  
 Gerated key from Alphadvantage which we incorporated it into jupyter notebook using python libraries "from dotenv import load_dotenv and key = os.getenv("alphavantage_api_key") which furnished us with JSON dataset. 
-
+---
 ![Fintech_Project_1](Image/Tech_Titan.png)
-
+---
 We used For loop and GetRequest to convert that data to CSV files.  
 We also needed to import stock price of each industries and S&P 500 dataset. 
 ---
@@ -38,7 +38,7 @@ We also needed to import stock price of each industries and S&P 500 dataset.
 
 ---
 
-##  Data Cleaning/Formatting
+##  **Data Cleaning/Formatting**
 
 Once we had our data csv files together, Data needed to clean and sort data. There was a lot of effort and iteration that went into our final analysis and presentation. Will, Shrey, Brandon and I spent countless hours perfecting the code to make it standardized allowing plug and play functionality. Below you will find several parts of the iteration process. Connecting data files by common columns and plotting.  
 ----
@@ -48,7 +48,7 @@ Once we had our data csv files together, Data needed to clean and sort data. The
 
 We used for loop to request data for each company and converted into csv files using to_csv. 
 
-## Implementation New Library  
+## **Implementation New Library**  
 
 We also used new library called "Time" we were limited to make 5 request a minute, therefore, 
 we included “time.sleep(60) “ to make codes wait 60 seconds upon encountering potential error. 
@@ -56,13 +56,14 @@ we included “time.sleep(60) “ to make codes wait 60 seconds upon encounterin
 ![Fintech_Project_1](Image/Increased_volatility_with_the_start_of_COVID-19.png)
 ----
  
-## Merging/comparison/plotting
+## **Merging/comparison/plotting**
+
 We used Arrays, NumPy and concates to form data frame. Mean function was used to show changes in percentiles of both industries. Additionally, 
 ---
 ![Fintech_Project_1](Image/Airline_&_Tech_PCT_Change_Assets.png)
 ----
 
-## Understanding the data/Visualizations
+## **Understanding the data/Visualizations**
 
 With little help from array we cleaned our data and used hvplot for visual so it can be pleasing to viewer’s eyes. 
 ---
@@ -75,14 +76,16 @@ To complete this project, we used the concepts discussed in class; Python, Panda
 
 ### Analysis
 
-## Where were the industries before Covid-19 pandemic? 
+## ***Where were the industries before Covid-19 pandemic?***
+---
 
 According to airline association of North America, airlines were experiencing “Golden Age”. The conducted study showed that combination of newer planes, enhanced consumer touchpoints and appealing ticket value had propelled airlines to it’s highest point in history. America alone was entertaining 2.5 million travelers per day. As recent as in Jan. and Feb. 2020, American airline was increased approximately anywhere in between 5.5% to 6.5%.  
 ---
 ![Fintech_Project_1](Image/Airlines_being_pumped_with_cash.png)
 -----
  
-## How did covid-19 affect these industries? 
+### ***How did covid-19 affect these industries? ***
+---
 
 Airlines saw their fall in late April 2020 when passenger volumes were down as low as 96% to historically low. U.S. airlines have grounded more than 3000 aircraft costing them collectively over $10 billion of cash per month. 
 American tech industry was already doing well before pandemic while making billions of dollars a year. Now that we’re on the serge for Covid cases, tech titans are at their new heights. Presently, Tech industry is dominating American businesses in a way we saw railroad era in late 1800s.  
@@ -91,14 +94,16 @@ American tech industry was already doing well before pandemic while making billi
 -----
  On the contrary, technology stocks elevated the S&P 500 stock index to a record high in August. The stocks of Apple, Facebook, Alphabet, Amazon and Microsoft rose proximately 37% in the first seven months in 2020. These organizations contributes 20% of the stock market’s total worth including Apple’s highest value that managed to reach $2 trillion.  
  
-## What impact did it have on the overall market? 
+### ***What impact did it have on the overall market?***
+---
 
 The overall market became volatile as pandemic progressed. Currently, airline industry is at its worst volatility, followed by Tech industry. Although, it would be safer to say that tech company is carrying the S&P 500’s majority of index. 
 -----
 ![Fintech_Project_1](Image/Biggest-Tech-Companies.png)
 --- 
  
-## What can each industry do next to sustain their business? 
+### ***What can each industry do next to sustain their business?***
+---
 
  Our advice to airline industry is that they need cushion of more cash on hand to survive this pandemic by taking advantage of the relief opportunity provided in the CARES Act, accessing outside sources of cash like unsecured and secured loans, and cost cutting.
 For instance, rescinding issuance of dividends or stock repurchases, deferring aircraft deliveries to the extent negotiations with manufacturer, halting capital projects, negotiating vendors and airport partners to secure flexibility or relief on payment terms and timing, and securing voluntary unpaid leaves or salary reductions. Perhaps it would be rewarding to turn focus on 
@@ -111,7 +116,7 @@ our analysis shows that there is significant changes in the market due to Covid-
 
 
 ---
-## References
+#### References
 
 https://www.alphavantage.co/Stock APIs in JSON, Excel & Google Sheets
  FX and cryptocurrency data feeds
