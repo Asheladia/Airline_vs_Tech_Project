@@ -1,6 +1,6 @@
 # Fintech_Project_1
 
-![Fintech_Project_1](Image src="mainframe.png"  width= "250" height="200" /)
+![Fintech_Project_1](Image/src="mainframe.png"  width= "250" height="200" /)
 
 
 
