@@ -41,7 +41,7 @@ We also needed to import stock price of each industries and S&P 500 dataset.
 ##  **Data Cleaning/Formatting**
 
 Once we had our data csv files together, Data needed to clean and sort data. There was a lot of effort and iteration that went into our final analysis and presentation. Will, Shrey, Brandon and I spent countless hours perfecting the code to make it standardized allowing plug and play functionality. Below you will find several parts of the iteration process. Connecting data files by common columns and plotting.  
-----
+
 ![Fintech_Project_1](Image/clean_format.png)
 
 
@@ -60,8 +60,8 @@ we included “time.sleep(60) “ to make codes wait 60 seconds upon encounterin
 
 We used Arrays, NumPy and concates to form data frame. Mean function was used to show changes in percentiles of both industries. Additionally, we used truncate as shorthand for boolean indexing based on index values before certain theshholds. 
 
-'''airline_total_assets_dataframe = airline_total_assets_dataframe.truncate(before=airline_total_assets_dataframe.index.values[14])
-airline_total_assets_dataframe.set_index('date', inplace=True)'''
+''airline_total_assets_dataframe = airline_total_assets_dataframe.truncate(before=airline_total_assets_dataframe.index.values[14])
+airline_total_assets_dataframe.set_index('date', inplace=True)''
 ---
 ![Fintech_Project_1](Image/Airline_&_Tech_PCT_Change_Assets.png)
 ----
