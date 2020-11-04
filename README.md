@@ -2,8 +2,9 @@
 
 ![Fintech_Project_1](Image/mainframe.png)
 
-			## Project Airline vs Tech 
-   
+			#### Project Airline vs Tech 
+			
+--- 
 ![Fintech_Project_1](Image/fintech_tab_hero.png)
 
 ---
