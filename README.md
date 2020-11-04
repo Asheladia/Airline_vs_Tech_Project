@@ -2,7 +2,7 @@
 
 ![Fintech_Project_1](Image/mainframe.png)
 
-# ***Project Airline vs Tech***
+# *** Airline vs Tech***
 			
 --- 
 ![Fintech_Project_1](Image/Fintech_hero.png)
