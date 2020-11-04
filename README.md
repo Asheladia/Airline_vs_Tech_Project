@@ -2,7 +2,7 @@
 
 ![Fintech_Project_1](Image/mainframe.png)
 
-			# --**Project Airline vs Tech**-- 
+			# ***Project Airline vs Tech***
 			
 --- 
 ![Fintech_Project_1](Image/Fintech_hero.png)
@@ -58,14 +58,17 @@ we included “time.sleep(60) “ to make codes wait 60 seconds upon encounterin
  
 ## **Merging/comparison/plotting**
 
-We used Arrays, NumPy and concates to form data frame. Mean function was used to show changes in percentiles of both industries. Additionally, 
+We used Arrays, NumPy and concates to form data frame. Mean function was used to show changes in percentiles of both industries. Additionally, we used truncate as shorthand for boolean indexing based on index values before certain theshholds. 
+
+'''airline_total_assets_dataframe = airline_total_assets_dataframe.truncate(before=airline_total_assets_dataframe.index.values[14])
+airline_total_assets_dataframe.set_index('date', inplace=True)'''
 ---
 ![Fintech_Project_1](Image/Airline_&_Tech_PCT_Change_Assets.png)
 ----
 
 ## **Understanding the data/Visualizations**
 
-With little help from array we cleaned our data and used hvplot for visual so it can be pleasing to viewer’s eyes. 
+With little help from array we cleaned our data and used hvplot for visual so it can be pleasing to viewer’s eyes. We have used combinations of scattermaps, hvplots, and barsets to display various intentions. 
 ---
 ![Fintech_Project_1](Image/Airline_stock_prices_dropping_after_COVID-19.png)
 ----
