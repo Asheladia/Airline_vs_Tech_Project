@@ -1,6 +1,6 @@
 # Fintech_Project_1
 ---
-![Fintech_Project_1] (mage/mainframe.png)
+![Fintech_Project_1] (Image/mainframe.png)
 ---
 
 
