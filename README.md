@@ -5,7 +5,7 @@
 			#### Project Airline vs Tech 
 			
 --- 
-![Fintech_Project_1](Image/fintech_tab_hero.png)
+![Fintech_Project_1](Image/Fintech_hero.png)
 
 ---
 Contributors: Alpa Sheladia, Jayshrey Dudhia, Will Turner, Brandon Srinath
