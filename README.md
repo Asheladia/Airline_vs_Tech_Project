@@ -1,6 +1,6 @@
 # Fintech_Project_1
 
-![Fintech_Project_1](Image/[alt=mainframe.png] { width: 250px;)
+![Fintech_Project_1](Image/mainframe.png width: 250px;)
 
 
 # *** Airline vs Tech***
