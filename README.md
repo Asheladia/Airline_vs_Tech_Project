@@ -1,6 +1,10 @@
 # Fintech_Project_1
 ---
-![Fintech_Project_1](Image/mainframe.png)  # VS  ![Fintech_Project_1](Image/Fintech_hero.png)
+![Fintech_Project_1](Image/mainframe.png) 
+---
+# VS 
+---
+![Fintech_Project_1](Image/Fintech_hero.png)
 ---
 
 
