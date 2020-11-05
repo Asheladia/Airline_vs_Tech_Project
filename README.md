@@ -1,15 +1,14 @@
 # Fintech_Project_1
 ---
-![Fintech_Project_1](Image/mainframe.png)
+![Fintech_Project_1](Image/mainframe.png)  # VS  ![Fintech_Project_1](Image/Fintech_hero.png)
 ---
 
 
 # *** Airline vs Tech***
 			
---- 
-![Fintech_Project_1](Image/Fintech_hero.png)
 
----
+
+
 ***Contributors: Alpa Sheladia, Jayshrey Dudhia, Will Turner, Brandon Srinath***
 
 In this project, our team collectively decided to compare two specific industries that have been negatively and postively affected by the Covid-19 pandemic. Due to the travel restrictions placed on people around the glode because of the pandemic, the airline industry has struggled to persevere in the market. On the other hand, the tech industry after taking a hit from the March lows has recovered completely and has even reached new record highs when compared with stock prices. We will  be cleaning financial data of both the industries including the operating balance sheets of different companies and then also compare the two industries with stock prices and market caps. 
